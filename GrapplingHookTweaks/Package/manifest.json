@@ -1,0 +1,9 @@
+﻿{
+  "name": "GrapplingHookTweaks",
+  "description": "Reels you in with a key combination instead of the double jump, pulls you in automatically when the hook is fired with the special attack, and reels you in even while standing on the ground.",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
