@@ -46,4 +46,4 @@ Install BepInExPack for Valheim, then copy the DLL file to
 
 # Misc.
 
-[GitHub repository](https://github.com/orax-Valheim-mods/)
+GitHub repositories of my Valheim mods: https://github.com/orax-Valheim-mods/
